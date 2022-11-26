@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Linux & Docker
 - 💞️ I’m looking to collaborate on: Nothing at the moment.
 - 📫 How to reach me ... Twitter, Discord
+Twitter: https://twitter.com/Dimmizer
+Discord: Dimmizer#8338
 
 <!---
 Dimmizer/Dimmizer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
