@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Linux & Docker
 - 💞️ I’m looking to collaborate on: Nothing at the moment.
 - 📫 How to reach me ... Twitter, Discord
+Twitter: https://twitter.com/Dimmizer
 Twitter: https://twitter.com/StevenDCoates
 Discord: Dimmizer#8338
 
