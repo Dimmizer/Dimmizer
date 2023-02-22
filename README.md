@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Steven "Dimmizer" Coates
+- 👋 Hi, I’m Steven "Dimmizer" Coates
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Linux & Docker
 - 💞️ I’m looking to collaborate on: Nothing at the moment.
