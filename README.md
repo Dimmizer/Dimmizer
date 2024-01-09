@@ -5,7 +5,7 @@
 - 📫 How to reach me ... Twitter, Discord
 Twitter: https://twitter.com/Dimmizer
 Twitter: https://twitter.com/StevenDCoates
-Discord: Dimmizer#8338
+Discord: Dimmizer
 
 <!---
 Dimmizer/Dimmizer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
